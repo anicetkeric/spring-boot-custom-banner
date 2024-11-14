@@ -1,0 +1,10 @@
+${Ansi.RED}.______     ______     ______   .___________. ${Ansi.GREEN}  .___________. _______   ______  __    __
+${Ansi.RED}|   _  \   /  __  \   /  __  \  |           | ${Ansi.GREEN}  |           ||   ____| /      ||  |  |  |
+${Ansi.RED}|  |_)  | |  |  |  | |  |  |  | `---|  |----` ${Ansi.GREEN}  `---|  |----`|  |__   |  ,----'|  |__|  |
+${Ansi.RED}|   _  <  |  |  |  | |  |  |  |     |  |      ${Ansi.GREEN}      |  |     |   __|  |  |     |   __   |
+${Ansi.RED}|  |_)  | |  `--'  | |  `--'  |     |  |      ${Ansi.GREEN}      |  |     |  |____ |  `----.|  |  |  |
+${Ansi.RED}|______/   \______/   \______/      |__|      ${Ansi.GREEN}      |__|     |_______| \______||__|  |__|
+${Ansi.BLUE}oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+${AnsiColor.BRIGHT_BLUE}                :: Welcome to My Spring Boot Application!
+${AnsiColor.GREEN}                     ::        Have a wonderful day! 🌷
+${AnsiColor.YELLOW}                  Powered by Spring Boot ${spring-boot.formatted-version} ::${AnsiColor.DEFAULT}
